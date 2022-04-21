@@ -3,7 +3,7 @@
 This GitHub reposit contains my classwork projects as a part of
 the [Udacity data engineering nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) program.
 
-### 1. Relational database: Data Modeling with PostgreSQL
+### 1. [Relational database: Data Modeling with PostgreSQL](1. Data Modeling with Postgres/README.md)
 
 ### 2. NoSQL database: Data Modeling with Apache Cassandra
 
