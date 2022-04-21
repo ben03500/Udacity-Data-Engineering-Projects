@@ -1,6 +1,6 @@
 # Project 4: Create a Data Lake with Spark
 
-This is my forth project as part of the Udacity Data Engineering Nanodegree course. This Sparkify Redshift database contains data from song and users log data in order to help analytical process in our business needs. This data lake ensure that the data is properly organized, integral and can be easily access with queries. We loaded the source data from S3, process the data into analytics tables using Spark, and load them back into S3 which it is considered our data lake.
+This is my forth project as part of the Udacity Data Engineering Nanodegree course. This Sparkify data lake contains data from song and users log data in order to help analytical process in our business needs. This data lake ensure that the data is properly organized, integral and can be easily access with queries. We loaded the source data from S3, process the data into analytics tables using Spark, and load them back into S3 which it is considered our data lake.
 
 ## Partition parquet files on S3
 
